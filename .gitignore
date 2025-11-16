@@ -1,0 +1,69 @@
+# Ignore raw sequencing files
+*.fastq
+*.fastq.gz
+
+# Ignore alignment files
+*.bam
+*.bai
+*.sam
+
+# Ignore index/dictionary files
+*.fai
+*.dict
+
+# Ignore intermediate variant files
+*.tmp
+*.vcf.gz
+*.vcf.gz.tbi
+
+# Ignore logs
+*.log
+
+# Ignore OS metadata
+.DS_Store
+# Ignore raw sequencing files
+*.fastq
+*.fastq.gz
+
+# Ignore alignment files
+*.bam
+*.bai
+*.sam
+
+# Ignore index/dictionary files
+*.fai
+*.dict
+
+# Ignore intermediate variant files
+*.tmp
+*.vcf.gz
+*.vcf.gz.tbi
+
+# Ignore logs
+*.log
+
+# Ignore OS metadata
+.DS_Store
+# Ignore raw sequencing files
+*.fastq
+*.fastq.gz
+
+# Ignore alignment files
+*.bam
+*.bai
+*.sam
+
+# Ignore index/dictionary files
+*.fai
+*.dict
+
+# Ignore intermediate variant files
+*.tmp
+*.vcf.gz
+*.vcf.gz.tbi
+
+# Ignore logs
+*.log
+
+# Ignore OS metadata
+.DS_Store
